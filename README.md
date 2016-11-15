@@ -2,7 +2,7 @@
 
 In this repo i will be share my daily challenges about SCIENCE.
 
-## What is Web Crawler :
+### What is Web Crawler :
 A web crawler is a program that collects content from the web. A web crawler finds web pages by
 starting from a seed page and following links to find other pages, and following links from the other
 pages it finds, and continuing to follow links until it has found many web pages.
